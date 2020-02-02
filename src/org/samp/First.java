@@ -5,7 +5,7 @@ public class First {
 	private void firstpgm() {
 		System.out.println("Welcome to Java Selinium course");
 		System.out.println("Week end batch");
-		System.out.println("Project class started");
+		System.out.println("Project class 2nd day class");
 		
 
 	}
